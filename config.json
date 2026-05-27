@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerselete",
+        "uuid": 21466887,
+        "checksum": "igdnfs"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
